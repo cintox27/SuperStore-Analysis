@@ -1,2 +1,2 @@
 # SuperStore-Analysis
-Superstore analysis using Excel
+US Superstore analysis using Excel
